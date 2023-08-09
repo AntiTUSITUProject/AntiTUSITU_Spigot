@@ -1,0 +1,9 @@
+name: AntiTUSITU_Spigot
+version: '${version}'
+main: org.antitusituproject.antitusitu_spigot.AntiTUSITU_Spigot
+api-version: '1.13'
+prefix: AntiTUSITU
+load: STARTUP
+authors: [Okay, CJYKK]
+description: 保护您的服务器免受一个熊孩子的损害
+website: https://antitusituproject.asia
